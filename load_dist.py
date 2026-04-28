@@ -36,5 +36,5 @@ def load_dist(filename):
         return None, None
     return sorted(list(cities)), distances
 
-# tu = load_dist('DIST26.txt')
-# print(len(tu[0]))
+#tu = load_dist('Genetic-TSP\DIST23-basic.txt')
+#print(len(tu[0]))
